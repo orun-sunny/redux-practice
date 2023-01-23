@@ -30,6 +30,7 @@ const ProductCard = ({ product }) => {
         </button>
         <button
           title='Add to wishlist'
+          title='Add to wishlist'
           className='bg-indigo-500  py-1 px-2 rounded-full'
         >
           <BiListPlus className='text-white' />
